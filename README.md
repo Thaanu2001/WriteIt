@@ -1,6 +1,6 @@
 # write_it
 
-Letter Sample Application
+Sample Letter Writing Application
 
 ## Getting Started
 
